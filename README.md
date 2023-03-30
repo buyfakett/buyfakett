@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- [blog（博客）](blog.buyfakett.top)
+- email：[buyfakett@vip.qq.com](mailto:buyfakett@vip.qq.com)
+
 <!--
 **buyfakett/buyfakett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
