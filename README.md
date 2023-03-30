@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- [blog（博客）](blog.buyfakett.top)
+- blog：[blog.buyfakett.top](blog.buyfakett.top)
 - email：[buyfakett@vip.qq.com](mailto:buyfakett@vip.qq.com)
 
 <!--
