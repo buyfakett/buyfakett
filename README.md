@@ -2,6 +2,7 @@
 
 - blog：[blog.buyfakett.top](https://blog.buyfakett.top)
 - email：[buyfakett@vip.qq.com](mailto:buyfakett@vip.qq.com)
+- bilibili：[https://space.bilibili.com/11479221](https://space.bilibili.com/11479221)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buyfakett/buyfakett/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buyfakett/buyfakett/output/github-contribution-grid-snake.svg">
