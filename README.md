@@ -1,4 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%EF%BC%8CI'm+buyfakett;Welcome+to+my+profile%EF%BC%81;Over+6+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+![profile watchs](https://komarev.com/ghpvc/?username=buyfakett&color=ff69b4)
 - blog：[blog.buyfakett.top](https://blog.buyfakett.top)
 - email：[buyfakett@vip.qq.com](mailto:buyfakett@vip.qq.com)
 - bilibili：[https://space.bilibili.com/11479221](https://space.bilibili.com/11479221)
