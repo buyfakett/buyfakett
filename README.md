@@ -19,5 +19,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buyfakett/buyfakett/output/github-contribution-grid-snake.svg">
 </picture>
 <!--   profile-green-animate -->
-![3d-contrib](https://raw.githubusercontent.com/buyfakett/buyfakett/master/profile-3d-contrib/profile-green-animate.svg)
+![3d-contrib](./profile-3d-contrib/profile-green-animate.svg)
 
