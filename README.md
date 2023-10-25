@@ -14,8 +14,8 @@
   
   <img src="https://github-stats.ubrong.com/api?username=buyfakett&show_icons=true" alt="buyfakett's GitHub stats" height="185px" />
   <a href="https://github.com/buyfakett">
-  <img src="https://github.com/buyfakett/buyfakett/blob/master/generated/overview.svg#gh-light-mode-only" />
-  <img src="https://github.com/buyfakett/buyfakett/blob/master/generated/languages.svg#gh-light-mode-only" />
+  <img src="https://github.com/buyfakett/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github.com/buyfakett/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
   </a>
   <!--   <img src="https://github-stats.ubrong.com/api/top-langs/?username=buyfakett" alt="buyfakett's Top Langs" height="185px" /> -->
 <picture>
