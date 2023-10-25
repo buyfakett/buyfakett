@@ -13,11 +13,11 @@
   <h4>Spend <img src="https://wakatime.com/badge/user/4767af51-0897-4e08-b59b-a51391cac892.svg" alt="wakatime_whole_time_stat" /> on coding since Sep 20 2023</h4>
   
   <img src="https://github-stats.ubrong.com/api?username=buyfakett&show_icons=true" alt="buyfakett's GitHub stats" height="185px" />
-<a href="https://github.com/buyfakett/github-stats">
-<img src="https://github.com/buyfakett/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/buyfakett/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
-<!--   <img src="https://github-stats.ubrong.com/api/top-langs/?username=buyfakett" alt="buyfakett's Top Langs" height="185px" /> -->
+  <a href="https://github.com/buyfakett">
+  <img src="https://github.com/buyfakett/buyfakett/blob/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github.com/buyfakett/buyfakett/blob/master/generated/languages.svg#gh-light-mode-only" />
+  </a>
+  <!--   <img src="https://github-stats.ubrong.com/api/top-langs/?username=buyfakett" alt="buyfakett's Top Langs" height="185px" /> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buyfakett/buyfakett/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buyfakett/buyfakett/output/github-contribution-grid-snake.svg">
