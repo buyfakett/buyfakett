@@ -26,8 +26,7 @@
 <!--   profile-green-animate -->
 <img alt="profile-green-animate" src="https://raw.githubusercontent.com/buyfakett/buyfakett/main/profile-3d-contrib/profile-green-animate.svg">
 
-<a style="font-size:2em;padding-bottom:0.3em;" href="https://github.com/buyfakett">My Representative Work</a>
-
+<h1 align="center">My Representative Work</h1>
 - [centos7_initialization](https://github.com/buyfakett/centos7_initialization):Initialize Centos7 script tag: Initialize Linux, sh script, shell script, automation script, nginx, docker, source swapping, Java support for local and network versions
 
 - [rsspush](https://github.com/buyfakett/rsspush):Tools for detecting RSS status and pushing it to WeChat test accounts and nail robots
