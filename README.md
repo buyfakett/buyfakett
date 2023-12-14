@@ -1,4 +1,12 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%EF%BC%8CI'm+buyfakett;Welcome+to+my+profile%EF%BC%81;Over+6+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+<!--   Hi there 👋，I'm buyfakett -->
+
+<!--  Welcome to my profile✨！ -->
+
+<!--  Over 7 years of programming experience -->
+
+<!--  Always learning new things -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%EF%BC%8CI'm+buyfakett;Welcome+to+my+profile%E2%9C%A8%EF%BC%81;Over+7+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 
 ![profile watchs](https://komarev.com/ghpvc/?username=buyfakett&color=ff69b4)
 - Read my [Blog](https://blog.buyfakett.top) to learn more about me
