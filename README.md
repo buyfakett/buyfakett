@@ -45,3 +45,5 @@
 
 - [biliup_rsspush_wechat](https://github.com/buyfakett/biliup_rsspush_wechat): This is a py script that detects the main dynamics of bilibiliup and automatically pushes it to the WeChat test account
 
+- [auto_ssl_push_svn](https://github.com/buyfakett/auto_ssl_push_svn): Automatically obtain/renew SSL certificates and push them to SVN
+
