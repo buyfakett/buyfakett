@@ -8,6 +8,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%EF%BC%8CI'm+buyfakett;Welcome+to+my+profile%E2%9C%A8%EF%BC%81;Over+7+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 
+<h3>If you are using or trying a template for FASTAPI or Vue or other tools, please move to:<a href="https://github.com/ttutils">ttutils</a></h3>
+
 ![profile watchs](https://komarev.com/ghpvc/?username=buyfakett&color=ff69b4)
 - Read my [Blog](https://blog.buyfakett.top) to learn more about me
 - Talk with me by [Email](mailto:buyfakett@vip.qq.com)
@@ -22,8 +24,6 @@
   | Framework    | ![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-3776AB?style=flat&logo=SpringBoot&logoColor=white)	![fastapi Badge](https://img.shields.io/badge/-fastapi-3776AB?style=flat&logo=fastapi&logoColor=white)	![Django Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)	 ![thinkPHP Badge](https://img.shields.io/badge/-thinkPHP-3776AB?style=flat&logo=PHP&logoColor=white)	 ![uniapp Badge](https://img.shields.io/badge/-uniapp-3776AB?style=flat&logo=Vue.js&logoColor=white)	 ![react Badge](https://img.shields.io/badge/-react-3776AB?style=flat&logo=react&logoColor=white) |
   
   <h4>Spend <img src="https://wakatime.com/badge/user/4767af51-0897-4e08-b59b-a51391cac892.svg" alt="wakatime_whole_time_stat" /> on coding since Sep 20 2023</h4>
-  
-  <h3>If you are using or trying a template for FASTAPI or Vue or other tools, please move to:<a href="https://github.com/ttutils">ttutils</a></h3>
   
   <img src="https://github-stats.ubrong.com/api?username=buyfakett&show_icons=true" alt="buyfakett's GitHub stats" height="185px" />
   <a href="https://github.com/buyfakett">
