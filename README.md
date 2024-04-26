@@ -23,7 +23,7 @@
   
   <h4>Spend <img src="https://wakatime.com/badge/user/4767af51-0897-4e08-b59b-a51391cac892.svg" alt="wakatime_whole_time_stat" /> on coding since Sep 20 2023</h4>
   
-  <h3 style="color:pink;">If you are using or trying a template for FASTAPI or Vue or other tools, please move to:<a href="https://github.com/ttutils">ttutils</a></h3>
+  <h3>If you are using or trying a template for FASTAPI or Vue or other tools, please move to:<a href="https://github.com/ttutils">ttutils</a></h3>
   
   <img src="https://github-stats.ubrong.com/api?username=buyfakett&show_icons=true" alt="buyfakett's GitHub stats" height="185px" />
   <a href="https://github.com/buyfakett">
