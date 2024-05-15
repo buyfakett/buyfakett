@@ -10,6 +10,7 @@
 
 <h3>If you are using or trying a template for FASTAPI or Vue or other tools, please move to:<a href="https://github.com/ttutils">ttutils</a></h3>
 
+![profile watchs](https://moe-counter.glitch.me/get/@:buyfakett)
 ![profile watchs](https://komarev.com/ghpvc/?username=buyfakett&color=ff69b4)
 - Read my [Blog](https://blog.buyfakett.top) to learn more about me
 - Talk with me by [Email](mailto:buyfakett@vip.qq.com)
