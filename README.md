@@ -26,7 +26,7 @@
   
   <h4>Spend <img src="https://wakatime.com/badge/user/4767af51-0897-4e08-b59b-a51391cac892.svg" alt="wakatime_whole_time_stat" /> on coding since Sep 20 2023</h4>
 
-  <script src="https://gist.github.com/buyfakett/6db2a3e13e86331c961582a1eab8108c.js"></script>
+  <iframe src="https://gist.github.com/buyfakett/6db2a3e13e86331c961582a1eab8108c.js" width="100%" height="400px"></iframe>
   
   <img src="https://github-stats.ubrong.com/api?username=buyfakett&show_icons=true" alt="buyfakett's GitHub stats" height="185px" />
   <a href="https://github.com/buyfakett">
