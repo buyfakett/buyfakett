@@ -25,6 +25,9 @@
   | Framework    | ![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-3776AB?style=flat&logo=SpringBoot&logoColor=white)	![fastapi Badge](https://img.shields.io/badge/-fastapi-3776AB?style=flat&logo=fastapi&logoColor=white)	![Django Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)	 ![thinkPHP Badge](https://img.shields.io/badge/-thinkPHP-3776AB?style=flat&logo=PHP&logoColor=white)	 ![uniapp Badge](https://img.shields.io/badge/-uniapp-3776AB?style=flat&logo=Vue.js&logoColor=white)	 ![react Badge](https://img.shields.io/badge/-react-3776AB?style=flat&logo=react&logoColor=white) |
   
   <h4>Spend <img src="https://wakatime.com/badge/user/4767af51-0897-4e08-b59b-a51391cac892.svg" alt="wakatime_whole_time_stat" /> on coding since Sep 20 2023</h4>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
   <img src="https://github-stats.ubrong.com/api?username=buyfakett&show_icons=true" alt="buyfakett's GitHub stats" height="185px" />
   <a href="https://github.com/buyfakett">
