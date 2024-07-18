@@ -27,6 +27,19 @@
   <h4>Spend <img src="https://wakatime.com/badge/user/4767af51-0897-4e08-b59b-a51391cac892.svg" alt="wakatime_whole_time_stat" /> on coding since Sep 20 2023</h4>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 10 July 2024 - To: 17 July 2024
+
+Total Time: 1 hr 41 mins
+
+Other          1 hr 9 mins     █████████████████░░░░░░░░   68.31 %
+Bash           24 mins         ██████░░░░░░░░░░░░░░░░░░░   24.13 %
+Markdown       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
 <!--END_SECTION:waka-->
   
   <img src="https://github-stats.ubrong.com/api?username=buyfakett&show_icons=true" alt="buyfakett's GitHub stats" height="185px" />
