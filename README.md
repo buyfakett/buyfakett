@@ -12,7 +12,7 @@
 
 ![profile watchs](https://moe-counter.glitch.me/get/@:buyfakett)
 ![profile watchs](https://komarev.com/ghpvc/?username=buyfakett&color=ff69b4)
-- Read my [Blog](https://blog.buyfakett.top) to learn more about me
+- Read my [Blog](https://blog.tteam.icu) to learn more about me
 - Talk with me by [Email](mailto:buyfakett@vip.qq.com)
 - Follow me on [Twitter](https://twitter.com/buyfakett) [bilibili](https://space.bilibili.com/11479221)
 - working in [muen](https://hub.docker.com/u/muen) by ops
