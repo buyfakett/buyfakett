@@ -16,8 +16,8 @@
 ![profile watchs](https://komarev.com/ghpvc/?username=buyfakett&color=ff69b4)
 - Read my [Blog](https://blog.tteam.icu) to learn more about me
 - Talk with me by [Email](mailto:buyfakett@vip.qq.com)
-- Follow me on [Twitter](https://twitter.com/buyfakett) [bilibili](https://space.bilibili.com/11479221)
-- working in [muen](https://hub.docker.com/u/muen) by ops
+- 关注 me on [Twitter](https://twitter.com/buyfakett) [bilibili](https://space.bilibili.com/11479221)
+- working in [muen](https://github.com/muen-docker-ops) by ops
   
   | Property     | Data                                                         |
   | ------------ | ------------------------------------------------------------ |
@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 28 October 2024
+From:2023年9月15日 - To:2024年10月28日
 
 Total Time: 694 hrs 39 mins
 
