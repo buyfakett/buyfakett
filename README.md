@@ -8,13 +8,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%EF%BC%8CI'm+buyfakett;Welcome+to+my+profile%E2%9C%A8%EF%BC%81;Over+7+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 
-<h3>If you are using or trying a template for FASTAPI or Vue or other tools, or my insights on devops, please move to:<a href="https://github.com/ttutils">ttutils</a></h3>
+<h3>If you are using or trying a template for FASTAPI or Vue or other tools, please move to:<a href="https://github.com/ttutils">ttutils</a></h3>
 
 <h3>If you are using or trying dockerfile, please move to:<a href="https://github.com/ttdockerfile">ttdockerfile</a></h3>
 
 ![profile watchs](https://moe-counter.glitch.me/get/@:buyfakett)
 ![profile watchs](https://komarev.com/ghpvc/?username=buyfakett&color=ff69b4)
 - Read my [Blog](https://blog.tteam.icu) to learn more about me
+- other [About Me](https://www.tteam.icu)
 - Talk with me by [Email](mailto:buyfakett@vip.qq.com)
 - 关注 me on [Twitter](https://twitter.com/buyfakett) [bilibili](https://space.bilibili.com/11479221)
 - working in [muen](https://github.com/muen-docker-ops) by ops
