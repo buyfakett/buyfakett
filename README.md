@@ -62,6 +62,8 @@ Docker                     12 hrs 59 mins  -------------------------   01.54 %
 <!--   profile-green-animate -->
 <img alt="profile-green-animate" src="https://raw.githubusercontent.com/buyfakett/buyfakett/main/profile-3d-contrib/profile-green-animate.svg">
 
+<!--
+
 <h1 align="center">My Representative Work</h1>
 
 - [centos7_initialization](https://github.com/buyfakett/centos7_initialization): Initialize Centos7 script tag: Initialize Linux, sh script, shell script, automation script, nginx, docker, source swapping, Java support for local and network versions
@@ -74,3 +76,10 @@ Docker                     12 hrs 59 mins  -------------------------   01.54 %
 
 - [auto_ssl_push_svn](https://github.com/buyfakett/auto_ssl_push_svn): Automatically obtain/renew SSL certificates and push them to SVN
 
+-->
+
+<h1 align="center">My Recent Blogs</h1>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
