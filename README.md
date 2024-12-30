@@ -30,19 +30,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 28 December 2024
+From: 15 September 2023 - To: 29 December 2024
 
-Total Time: 842 hrs 5 mins
+Total Time: 845 hrs 13 mins
 
-Python                     183 hrs 36 mins >>>>>--------------------   21.80 %
-Bash                       160 hrs 26 mins >>>>>--------------------   19.05 %
-Other                      150 hrs 27 mins >>>>---------------------   17.87 %
-JavaScript                 64 hrs 7 mins   >>-----------------------   07.61 %
-Markdown                   60 hrs 57 mins  >>-----------------------   07.24 %
-YAML                       48 hrs 52 mins  >------------------------   05.80 %
-Vue.js                     41 hrs 22 mins  >------------------------   04.91 %
-JSON                       25 hrs 30 mins  >------------------------   03.03 %
-Text                       16 hrs 45 mins  -------------------------   01.99 %
+Python                     183 hrs 36 mins >>>>>--------------------   21.72 %
+Bash                       160 hrs 26 mins >>>>>--------------------   18.98 %
+Other                      150 hrs 27 mins >>>>---------------------   17.80 %
+JavaScript                 64 hrs 7 mins   >>-----------------------   07.59 %
+Markdown                   61 hrs          >>-----------------------   07.22 %
+YAML                       49 hrs 12 mins  >------------------------   05.82 %
+Vue.js                     41 hrs 22 mins  >------------------------   04.90 %
+JSON                       25 hrs 30 mins  >------------------------   03.02 %
+Text                       16 hrs 45 mins  -------------------------   01.98 %
 Docker                     12 hrs 59 mins  -------------------------   01.54 %
 ```
 
