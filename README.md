@@ -81,6 +81,7 @@ Docker                     12 hrs 59 mins  -------------------------   01.53 %
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+ - [2025-01-05 周记 2025 Week 01](https://blog.tteam.icu/record/2025/W01/)
  - [2024-12-29 周记 2024 Week 52](https://blog.tteam.icu/record/2024/W52/)
  - [2024-12-27 cloudflare 加载git信息](https://blog.tteam.icu/dev/cloudflare%E5%8A%A0%E8%BD%BDgit%E4%BF%A1%E6%81%AF/)
  - [2024-12-22 周记 2024 Week 51](https://blog.tteam.icu/record/2024/W51/)
@@ -89,5 +90,4 @@ Docker                     12 hrs 59 mins  -------------------------   01.53 %
  - [2024-11-30 cloudflare pages钉钉通知](https://blog.tteam.icu/dev/cf-pages%E9%80%9A%E7%9F%A5/)
  - [2024-11-24 “关于我”编写](https://blog.tteam.icu/dev/%E2%80%9C%E5%85%B3%E4%BA%8E%E6%88%91%E2%80%9D%E7%BC%96%E5%86%99/)
  - [2024-11-11 【vps测评】servarica](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91servarica/)
- - [2024-11-11 【实用的docker小技巧】minio&lpar;自建oss&rpar;](https://blog.tteam.icu/ops/%E3%80%90%E5%AE%9E%E7%94%A8%E7%9A%84docker%E5%B0%8F%E6%8A%80%E5%B7%A7%E3%80%91minio(%E8%87%AA%E5%BB%BAoss)/)
- - [2024-11-10 【实用的服务器小技巧】rss订阅](https://blog.tteam.icu/ops/%E3%80%90%E5%AE%9E%E7%94%A8%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B0%8F%E6%8A%80%E5%B7%A7%E3%80%91rss%E8%AE%A2%E9%98%85/)<!-- BLOG-POST-LIST:END -->
+ - [2024-11-11 【实用的docker小技巧】minio&lpar;自建oss&rpar;](https://blog.tteam.icu/ops/%E3%80%90%E5%AE%9E%E7%94%A8%E7%9A%84docker%E5%B0%8F%E6%8A%80%E5%B7%A7%E3%80%91minio(%E8%87%AA%E5%BB%BAoss)/)<!-- BLOG-POST-LIST:END -->
