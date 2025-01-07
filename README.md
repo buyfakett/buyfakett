@@ -81,6 +81,7 @@ Docker                     12 hrs 59 mins  -------------------------   01.52 %
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+ - [2025-01-07 语雀服务崩了后谈](https://blog.tteam.icu/ops/%E8%AF%AD%E9%9B%80%E6%9C%8D%E5%8A%A1%E5%B4%A9%E4%BA%86%E5%90%8E%E8%B0%88/)
  - [2025-01-06 年报 2024](https://blog.tteam.icu/record/yearly/Y2024/)
  - [2025-01-05 周记 2025 Week 01](https://blog.tteam.icu/record/weekly/2025/W01/)
  - [2024-12-29 周记 2024 Week 52](https://blog.tteam.icu/record/weekly/2024/W52/)
@@ -89,5 +90,4 @@ Docker                     12 hrs 59 mins  -------------------------   01.52 %
  - [2024-12-20 鲲鹏编译Chromium](https://blog.tteam.icu/dev/%E9%B2%B2%E9%B9%8F%E7%BC%96%E8%AF%91Chromium/)
  - [2024-12-15 周记 2024 Week 50](https://blog.tteam.icu/record/weekly/2024/W50/)
  - [2024-11-30 cloudflare pages钉钉通知](https://blog.tteam.icu/dev/cf-pages%E9%80%9A%E7%9F%A5/)
- - [2024-11-24 “关于我”编写](https://blog.tteam.icu/dev/%E2%80%9C%E5%85%B3%E4%BA%8E%E6%88%91%E2%80%9D%E7%BC%96%E5%86%99/)
- - [2024-11-11 【vps测评】servarica](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91servarica/)<!-- BLOG-POST-LIST:END -->
+ - [2024-11-24 “关于我”编写](https://blog.tteam.icu/dev/%E2%80%9C%E5%85%B3%E4%BA%8E%E6%88%91%E2%80%9D%E7%BC%96%E5%86%99/)<!-- BLOG-POST-LIST:END -->
