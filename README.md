@@ -81,6 +81,7 @@ Docker                     12 hrs 59 mins  -------------------------   01.47 %
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+ - [2025-01-19 周记 2025 Week 03](https://blog.tteam.icu/record/weekly/2025/W03/)
  - [2025-01-12 周记 2025 Week 02](https://blog.tteam.icu/record/weekly/2025/W02/)
  - [2025-01-09 【vps测评】claw爪云](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91%E7%88%AA%E4%BA%91/)
  - [2025-01-09 【vps测评】VKVM](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91VKVM/)
@@ -89,5 +90,4 @@ Docker                     12 hrs 59 mins  -------------------------   01.47 %
  - [2025-01-05 周记 2025 Week 01](https://blog.tteam.icu/record/weekly/2025/W01/)
  - [2024-12-29 周记 2024 Week 52](https://blog.tteam.icu/record/weekly/2024/W52/)
  - [2024-12-27 cloudflare 加载git信息](https://blog.tteam.icu/dev/cloudflare%E5%8A%A0%E8%BD%BDgit%E4%BF%A1%E6%81%AF/)
- - [2024-12-22 周记 2024 Week 51](https://blog.tteam.icu/record/weekly/2024/W51/)
- - [2024-12-20 鲲鹏编译Chromium](https://blog.tteam.icu/dev/%E9%B2%B2%E9%B9%8F%E7%BC%96%E8%AF%91Chromium/)<!-- BLOG-POST-LIST:END -->
+ - [2024-12-22 周记 2024 Week 51](https://blog.tteam.icu/record/weekly/2024/W51/)<!-- BLOG-POST-LIST:END -->
