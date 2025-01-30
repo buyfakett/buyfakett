@@ -81,6 +81,7 @@ Docker                     12 hrs 59 mins  -------------------------   01.45 %
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+ - [2025-02-04 2025春节广州香港行](https://blog.tteam.icu/tour/2025%E6%98%A5%E8%8A%82%E5%B9%BF%E5%B7%9E%E9%A6%99%E6%B8%AF%E8%A1%8C/)
  - [2025-01-26 周记 2025 Week 04](https://blog.tteam.icu/record/weekly/2025/W04/)
  - [2025-01-19 周记 2025 Week 03](https://blog.tteam.icu/record/weekly/2025/W03/)
  - [2025-01-12 周记 2025 Week 02](https://blog.tteam.icu/record/weekly/2025/W02/)
@@ -89,5 +90,4 @@ Docker                     12 hrs 59 mins  -------------------------   01.45 %
  - [2025-01-07 语雀服务崩了后谈](https://blog.tteam.icu/ops/%E8%AF%AD%E9%9B%80%E6%9C%8D%E5%8A%A1%E5%B4%A9%E4%BA%86%E5%90%8E%E8%B0%88/)
  - [2025-01-06 年报 2024](https://blog.tteam.icu/record/yearly/Y2024/)
  - [2025-01-05 周记 2025 Week 01](https://blog.tteam.icu/record/weekly/2025/W01/)
- - [2024-12-29 周记 2024 Week 52](https://blog.tteam.icu/record/weekly/2024/W52/)
- - [2024-12-27 cloudflare 加载git信息](https://blog.tteam.icu/dev/cloudflare%E5%8A%A0%E8%BD%BDgit%E4%BF%A1%E6%81%AF/)<!-- BLOG-POST-LIST:END -->
+ - [2024-12-29 周记 2024 Week 52](https://blog.tteam.icu/record/weekly/2024/W52/)<!-- BLOG-POST-LIST:END -->
