@@ -81,6 +81,8 @@ TypeScript                 32 hrs 3 mins   >------------------------   02.85 %
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+ - [2025-05-29 linux用systemd运行二进制](https://blog.tteam.icu/ops/linux%E7%94%A8systemd%E8%BF%90%E8%A1%8C%E4%BA%8C%E8%BF%9B%E5%88%B6/)
+ - [2025-05-25 周记 2025 Week 22](https://blog.tteam.icu/record/weekly/2025/W21/)
  - [2025-05-09 Debian 11 升级 Debian 12](https://blog.tteam.icu/ops/Debian%2011%20%E5%8D%87%E7%BA%A7%20Debian%2012/)
  - [2025-05-07 【vps测评】狐帝云](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91%E7%8B%90%E5%B8%9D%E4%BA%91/)
  - [2025-04-03 周记 2025 Week 14](https://blog.tteam.icu/record/weekly/2025/W14/)
@@ -88,6 +90,4 @@ TypeScript                 32 hrs 3 mins   >------------------------   02.85 %
  - [2025-03-11 【vps测评】搬瓦工](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91%E6%90%AC%E7%93%A6%E5%B7%A5/)
  - [2025-02-26 openresty使用ngx_waf](https://blog.tteam.icu/ops/openresty%E4%BD%BF%E7%94%A8ngx_waf/)
  - [2025-02-10 2025春节广州香港行](https://blog.tteam.icu/tour/2025%E6%98%A5%E8%8A%82%E5%B9%BF%E5%B7%9E%E9%A6%99%E6%B8%AF%E8%A1%8C/)
- - [2025-02-09 周记 2025 Week 07](https://blog.tteam.icu/record/weekly/2025/W06/)
- - [2025-02-01 年度计划 2025](https://blog.tteam.icu/plans/year/Y2025/)
- - [2025-01-26 周记 2025 Week 04](https://blog.tteam.icu/record/weekly/2025/W04/)<!-- BLOG-POST-LIST:END -->
+ - [2025-02-09 周记 2025 Week 07](https://blog.tteam.icu/record/weekly/2025/W06/)<!-- BLOG-POST-LIST:END -->
