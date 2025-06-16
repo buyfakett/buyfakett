@@ -30,19 +30,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 14 June 2025
+From: 15 September 2023 - To: 15 June 2025
 
-Total Time: 1,152 hrs 41 mins
+Total Time: 1,153 hrs 54 mins
 
-Other                      221 hrs 55 mins >>>>>--------------------   19.25 %
-Bash                       209 hrs 3 mins  >>>>>--------------------   18.14 %
-Python                     192 hrs 6 mins  >>>>---------------------   16.67 %
-JavaScript                 87 hrs 31 mins  >>-----------------------   07.59 %
-Markdown                   81 hrs 1 min    >>-----------------------   07.03 %
-YAML                       65 hrs 53 mins  >------------------------   05.72 %
+Other                      221 hrs 55 mins >>>>>--------------------   19.23 %
+Bash                       209 hrs 3 mins  >>>>>--------------------   18.12 %
+Python                     192 hrs 6 mins  >>>>---------------------   16.65 %
+JavaScript                 87 hrs 32 mins  >>-----------------------   07.59 %
+Markdown                   81 hrs 56 mins  >>-----------------------   07.10 %
+YAML                       65 hrs 53 mins  >------------------------   05.71 %
 Go                         47 hrs 1 min    >------------------------   04.08 %
-Vue.js                     44 hrs 5 mins   >------------------------   03.83 %
-TypeScript                 40 hrs 42 mins  >------------------------   03.53 %
+Vue.js                     44 hrs 5 mins   >------------------------   03.82 %
+TypeScript                 40 hrs 59 mins  >------------------------   03.55 %
 JSON                       33 hrs 26 mins  >------------------------   02.90 %
 ```
 
