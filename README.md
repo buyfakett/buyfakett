@@ -8,7 +8,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%EF%BC%8CI'm+buyfakett;Welcome+to+my+profile%E2%9C%A8%EF%BC%81;Over+8+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 
-<h3>If you are using or trying a template for FASTAPI or Vue or other tools, please move to:<a href="https://github.com/ttutils">ttutils</a></h3>
+<h3>If you are using or trying a template for Hertz(golang) or react FastAPI or Vue or other tools, please move to:<a href="https://github.com/ttutils">ttutils</a></h3>
 
 <h3>If you are using or trying dockerfile, please move to:<a href="https://github.com/ttdockerfile">ttdockerfile</a></h3>
 
