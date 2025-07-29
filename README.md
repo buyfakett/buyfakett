@@ -81,6 +81,8 @@ JSON                       34 hrs 45 mins  >------------------------   02.88 %
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+ - [2025-07-29 【vps测评】cloudcone](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91cloudcone/)
+ - [2025-07-29 反向代理DDNS域名](https://blog.tteam.icu/other/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86DDNS%E5%9F%9F%E5%90%8D/)
  - [2025-06-15 debian安装pve](https://blog.tteam.icu/other/debian%E5%AE%89%E8%A3%85pve/)
  - [2025-06-15 2025劳动节广州香港澳门行](https://blog.tteam.icu/tour/2025%E5%8A%B3%E5%8A%A8%E8%8A%82%E5%B9%BF%E5%B7%9E%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A8%E8%A1%8C/)
  - [2025-05-29 linux用systemd运行二进制](https://blog.tteam.icu/ops/linux%E7%94%A8systemd%E8%BF%90%E8%A1%8C%E4%BA%8C%E8%BF%9B%E5%88%B6/)
@@ -88,6 +90,4 @@ JSON                       34 hrs 45 mins  >------------------------   02.88 %
  - [2025-05-09 Debian 11 升级 Debian 12](https://blog.tteam.icu/ops/Debian%2011%20%E5%8D%87%E7%BA%A7%20Debian%2012/)
  - [2025-05-07 【vps测评】狐帝云](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91%E7%8B%90%E5%B8%9D%E4%BA%91/)
  - [2025-04-03 周记 2025 Week 14](https://blog.tteam.icu/record/weekly/2025/W14/)
- - [2025-03-14 关于我的homeserver](https://blog.tteam.icu/other/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84homeserver/)
- - [2025-03-11 【vps测评】搬瓦工](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91%E6%90%AC%E7%93%A6%E5%B7%A5/)
- - [2025-02-26 openresty使用ngx_waf](https://blog.tteam.icu/ops/openresty%E4%BD%BF%E7%94%A8ngx_waf/)<!-- BLOG-POST-LIST:END -->
+ - [2025-03-14 关于我的homeserver](https://blog.tteam.icu/other/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84homeserver/)<!-- BLOG-POST-LIST:END -->
