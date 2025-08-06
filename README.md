@@ -81,6 +81,7 @@ JSON                       35 hrs 55 mins  >------------------------   02.93 %
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+ - [2025-08-06 轻量化收集日志](https://blog.tteam.icu/ops/%E8%BD%BB%E9%87%8F%E5%8C%96%E6%94%B6%E9%9B%86%E6%97%A5%E5%BF%97/)
  - [2025-07-31 笔记从vuepress迁移到rspress](https://blog.tteam.icu/dev/%E7%AC%94%E8%AE%B0%E4%BB%8Evuepress%E8%BF%81%E7%A7%BB%E5%88%B0rspress/)
  - [2025-07-29 【vps测评】cloudcone](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91cloudcone/)
  - [2025-07-29 反向代理DDNS域名](https://blog.tteam.icu/other/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86DDNS%E5%9F%9F%E5%90%8D/)
@@ -89,5 +90,4 @@ JSON                       35 hrs 55 mins  >------------------------   02.93 %
  - [2025-05-29 linux用systemd运行二进制](https://blog.tteam.icu/ops/linux%E7%94%A8systemd%E8%BF%90%E8%A1%8C%E4%BA%8C%E8%BF%9B%E5%88%B6/)
  - [2025-05-25 周记 2025 Week 22](https://blog.tteam.icu/record/weekly/2025/W21/)
  - [2025-05-09 Debian 11 升级 Debian 12](https://blog.tteam.icu/ops/Debian%2011%20%E5%8D%87%E7%BA%A7%20Debian%2012/)
- - [2025-05-07 【vps测评】狐帝云](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91%E7%8B%90%E5%B8%9D%E4%BA%91/)
- - [2025-04-03 周记 2025 Week 14](https://blog.tteam.icu/record/weekly/2025/W14/)<!-- BLOG-POST-LIST:END -->
+ - [2025-05-07 【vps测评】狐帝云](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91%E7%8B%90%E5%B8%9D%E4%BA%91/)<!-- BLOG-POST-LIST:END -->
