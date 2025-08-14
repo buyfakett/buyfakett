@@ -81,6 +81,7 @@ JSON                       36 hrs 24 mins  >------------------------   02.92 %
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+ - [2025-08-14 rustfs是否可以替代minio](https://blog.tteam.icu/ops/rustfs%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E6%9B%BF%E4%BB%A3minio/)
  - [2025-08-06 轻量化收集日志](https://blog.tteam.icu/ops/%E8%BD%BB%E9%87%8F%E5%8C%96%E6%94%B6%E9%9B%86%E6%97%A5%E5%BF%97/)
  - [2025-07-31 笔记从vuepress迁移到rspress](https://blog.tteam.icu/dev/%E7%AC%94%E8%AE%B0%E4%BB%8Evuepress%E8%BF%81%E7%A7%BB%E5%88%B0rspress/)
  - [2025-07-29 【vps测评】cloudcone](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91cloudcone/)
@@ -89,5 +90,4 @@ JSON                       36 hrs 24 mins  >------------------------   02.92 %
  - [2025-06-15 2025劳动节广州香港澳门行](https://blog.tteam.icu/tour/2025%E5%8A%B3%E5%8A%A8%E8%8A%82%E5%B9%BF%E5%B7%9E%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A8%E8%A1%8C/)
  - [2025-05-29 linux用systemd运行二进制](https://blog.tteam.icu/ops/linux%E7%94%A8systemd%E8%BF%90%E8%A1%8C%E4%BA%8C%E8%BF%9B%E5%88%B6/)
  - [2025-05-25 周记 2025 Week 22](https://blog.tteam.icu/record/weekly/2025/W21/)
- - [2025-05-09 Debian 11 升级 Debian 12](https://blog.tteam.icu/ops/Debian%2011%20%E5%8D%87%E7%BA%A7%20Debian%2012/)
- - [2025-05-07 【vps测评】狐帝云](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91%E7%8B%90%E5%B8%9D%E4%BA%91/)<!-- BLOG-POST-LIST:END -->
+ - [2025-05-09 Debian 11 升级 Debian 12](https://blog.tteam.icu/ops/Debian%2011%20%E5%8D%87%E7%BA%A7%20Debian%2012/)<!-- BLOG-POST-LIST:END -->
