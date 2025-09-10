@@ -24,7 +24,7 @@
   | ------------ | ------------------------------------------------------------ |
   | Language     | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Golang Badge](https://img.shields.io/badge/-Golang-3776AB?style=flat&logo=Go&logoColor=white) ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3776AB?style=flat&logo=TypeScript&logoColor=white)	![JavaScript Badge](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white)	![Shell Badge](https://img.shields.io/badge/-Shell-3776AB?style=flat&logo=Shell&logoColor=white)	![PHP Badge](https://img.shields.io/badge/-PHP-3776AB?style=flat&logo=PHP&logoColor=white) |
   | Virtually OS | ![Unraid Badge](https://img.shields.io/badge/-Unraid-000?style=flat&logo=Unraid&logoColor=FF0000)  ![Proxmox Badge](https://img.shields.io/badge/-Proxmox-000?style=flat&logo=Proxmox&logoColor=FFA500)  ![ESXI Badge](https://img.shields.io/badge/-ESXI-000?style=flat&logo=ESXI&logoColor=9F2B68)  ![OpenStack Badge](https://img.shields.io/badge/-OpenStack-000?style=flat&logo=OpenStack&logoColor=FF0000)  ![Synology Badge](https://img.shields.io/badge/-Synology-000?style=flat&logo=Synology&logoColor=skyblue)  ![TrueNAS Badge](https://img.shields.io/badge/-TrueNAS-000?style=flat&logo=TrueNAS&logoColor=#AC2595) |
-  | OS           | ![Windows Badge](https://img.shields.io/badge/-Windows-000?style=flat&logo=Windows&logoColor=blue)	![Centos Badge](https://img.shields.io/badge/-Centos-000?style=flat&logo=Centos&logoColor=9F2B68)	![Macos Badge](https://img.shields.io/badge/-Macos-000?style=flat&logo=Macos&logoColor=blue)	![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-000?style=flat&logo=Ubuntu&logoColor=dd4814) |
+  | OS           | ![Debian Badge](https://img.shields.io/badge/-Debian-000?style=flat&logo=Debian&logoColor=red) ![MacOS Badge](https://img.shields.io/badge/-MacOS-000?style=flat&logo=MacOS&logoColor=blue) ![Windows Badge](https://img.shields.io/badge/-Windows-000?style=flat&logo=Windows&logoColor=blue)	![Centos Badge](https://img.shields.io/badge/-Centos-000?style=flat&logo=Centos&logoColor=9F2B68) ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-000?style=flat&logo=Ubuntu&logoColor=dd4814) |
   | Framework    | ![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-3776AB?style=flat&logo=SpringBoot&logoColor=white)	![fastapi Badge](https://img.shields.io/badge/-fastapi-3776AB?style=flat&logo=fastapi&logoColor=white)	![Django Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)	 ![thinkPHP Badge](https://img.shields.io/badge/-thinkPHP-3776AB?style=flat&logo=PHP&logoColor=white)	 ![uniapp Badge](https://img.shields.io/badge/-uniapp-3776AB?style=flat&logo=Vue.js&logoColor=white)	 ![react Badge](https://img.shields.io/badge/-react-3776AB?style=flat&logo=react&logoColor=white) ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-3776AB?style=flat&logo=Vue.js&logoColor=white) |
 
 <!--START_SECTION:waka-->
@@ -49,10 +49,10 @@ JSON                       37 hrs 38 mins  >------------------------   02.90 %
 <!--END_SECTION:waka-->
   
   <img src="https://github-stats.ubrong.com/api?username=buyfakett&show_icons=true" alt="buyfakett's GitHub stats" height="185px" />
-  <a href="https://github.com/buyfakett">
+  <!--<a href="https://github.com/buyfakett">
   <img src="https://github.com/buyfakett/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
   <img src="https://github.com/buyfakett/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-  </a>
+  </a>-->
   <!--   <img src="https://github-stats.ubrong.com/api/top-langs/?username=buyfakett" alt="buyfakett's Top Langs" height="185px" /> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buyfakett/buyfakett/output/github-contribution-grid-snake-dark.svg">
