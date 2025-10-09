@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 07 October 2025
+From: 15 September 2023 - To: 08 October 2025
 
-Total Time: 1,342 hrs 8 mins
+Total Time: 1,342 hrs 23 mins
 
-Other                      256 hrs 48 mins >>>>>--------------------   19.13 %
-Bash                       232 hrs 28 mins >>>>---------------------   17.32 %
-Python                     193 hrs 52 mins >>>>---------------------   14.45 %
+Other                      256 hrs 59 mins >>>>>--------------------   19.14 %
+Bash                       232 hrs 31 mins >>>>---------------------   17.32 %
+Python                     193 hrs 52 mins >>>>---------------------   14.44 %
 JavaScript                 88 hrs 37 mins  >>-----------------------   06.60 %
 Markdown                   87 hrs 5 mins   >>-----------------------   06.49 %
 Go                         82 hrs 25 mins  >>-----------------------   06.14 %
