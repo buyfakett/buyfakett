@@ -81,6 +81,7 @@ JSON                       43 hrs 22 mins  >------------------------   02.90 %
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+ - [2026-01-19 年度计划 2026](https://blog.tteam.icu/plans/year/Y2026/)
  - [2026-01-11 年报 2025](https://blog.tteam.icu/record/yearly/Y2025/)
  - [2025-11-29 自己写了个个人使用的图床](https://blog.tteam.icu/dev/%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8%E7%9A%84%E5%9B%BE%E5%BA%8A/)
  - [2025-09-24 【vps测评】hetzner](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91hetnzer/)
@@ -89,5 +90,4 @@ JSON                       43 hrs 22 mins  >------------------------   02.90 %
  - [2025-07-31 笔记从vuepress迁移到rspress](https://blog.tteam.icu/dev/%E7%AC%94%E8%AE%B0%E4%BB%8Evuepress%E8%BF%81%E7%A7%BB%E5%88%B0rspress/)
  - [2025-07-29 【vps测评】cloudcone](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91cloudcone/)
  - [2025-07-29 反向代理DDNS域名](https://blog.tteam.icu/other/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86DDNS%E5%9F%9F%E5%90%8D/)
- - [2025-06-15 debian安装pve](https://blog.tteam.icu/other/debian%E5%AE%89%E8%A3%85pve/)
- - [2025-06-15 2025劳动节广州香港澳门行](https://blog.tteam.icu/tour/2025%E5%8A%B3%E5%8A%A8%E8%8A%82%E5%B9%BF%E5%B7%9E%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A8%E8%A1%8C/)<!-- BLOG-POST-LIST:END -->
+ - [2025-06-15 debian安装pve](https://blog.tteam.icu/other/debian%E5%AE%89%E8%A3%85pve/)<!-- BLOG-POST-LIST:END -->
