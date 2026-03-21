@@ -81,13 +81,13 @@ Vue.js                     44 hrs 17 mins        >------------------------   02.
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
- - [2026-03-01 我抽空写了3个rspress插件](https://blog.tteam.icu/dev/%E6%88%91%E6%8A%BD%E7%A9%BA%E5%86%99%E4%BA%863%E4%B8%AArspress%E6%8F%92%E4%BB%B6/)
- - [2026-03-01 【vps测评】netcup](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91netcup/)
- - [2026-01-19 年度计划 2026](https://blog.tteam.icu/plans/year/Y2026/)
- - [2026-01-11 年报 2025](https://blog.tteam.icu/record/yearly/Y2025/)
- - [2025-11-29 自己写了个个人使用的图床](https://blog.tteam.icu/dev/%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8%E7%9A%84%E5%9B%BE%E5%BA%8A/)
- - [2025-09-24 【vps测评】hetzner](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91hetnzer/)
- - [2025-08-14 rustfs是否可以替代minio](https://blog.tteam.icu/ops/rustfs%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E6%9B%BF%E4%BB%A3minio/)
- - [2025-08-06 轻量化收集日志](https://blog.tteam.icu/ops/%E8%BD%BB%E9%87%8F%E5%8C%96%E6%94%B6%E9%9B%86%E6%97%A5%E5%BF%97/)
- - [2025-07-31 笔记从vuepress迁移到rspress](https://blog.tteam.icu/dev/%E7%AC%94%E8%AE%B0%E4%BB%8Evuepress%E8%BF%81%E7%A7%BB%E5%88%B0rspress/)
- - [2025-07-29 【vps测评】cloudcone](https://blog.tteam.icu/vps/%E3%80%90vps%E6%B5%8B%E8%AF%84%E3%80%91cloudcone/)<!-- BLOG-POST-LIST:END -->
+ - [2026-03-01 【vps测评】netcup](https://www.tteam.icu/blog/vps/【vps测评】netcup)
+ - [2026-03-01 我抽空写了3个rspress插件](https://www.tteam.icu/blog/dev/我抽空写了3个rspress插件)
+ - [2026-01-19 年度计划 2026](https://www.tteam.icu/blog/plans/year/Y2026)
+ - [2026-01-11 年报 2025](https://www.tteam.icu/blog/record/yearly/Y2025)
+ - [2025-11-29 自己写了个个人使用的图床](https://www.tteam.icu/blog/dev/自己写了个个人使用的图床)
+ - [2025-09-24 【vps测评】hetzner](https://www.tteam.icu/blog/vps/【vps测评】hetnzer)
+ - [2025-08-14 rustfs是否可以替代minio](https://www.tteam.icu/blog/ops/rustfs是否可以替代minio)
+ - [2025-08-06 轻量化收集日志](https://www.tteam.icu/blog/ops/轻量化收集日志)
+ - [2025-07-31 笔记从vuepress迁移到rspress](https://www.tteam.icu/blog/dev/笔记从vuepress迁移到rspress)
+ - [2025-07-29 【vps测评】cloudcone](https://www.tteam.icu/blog/vps/【vps测评】cloudcone)<!-- BLOG-POST-LIST:END -->
