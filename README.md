@@ -2,7 +2,7 @@
 
 <!--  Welcome to my profile✨！ -->
 
-<!-- Over 8 years of programming experience -->
+<!-- Over 9 years of programming experience -->
 
 <!--  Always learning new things -->
 
@@ -12,13 +12,12 @@
 
 <h3>If you are using or trying dockerfile, please move to:<a href="https://github.com/ttdockerfile">ttdockerfile</a></h3>
 
-![profile watchs](https://moe-counter.glitch.me/get/@:buyfakett)
+<!-- ![profile watchs](https://count.getloli.com/get/@:buyfakett) -->
 ![profile watchs](https://komarev.com/ghpvc/?username=buyfakett&color=ff69b4)
-- Read my [Blog](https://blog.tteam.icu) to learn more about me
-- other [About Me](https://www.tteam.icu)
-- Talk with me by [Email](mailto:buyfakett@vip.qq.com)
-- follow me on [Twitter](https://twitter.com/buyfakett) [bilibili](https://space.bilibili.com/11479221)
-- working in [muen](https://github.com/muen-docker-ops) by ops
+- Read my Bio and Blog on my [Website](https://www.tteam.icu)
+- Talk with me by [Email](mailto:work@tteam.icu)
+- Follow me on [bilibili](https://space.bilibili.com/11479221)
+- Working on [muen](https://github.com/muen-docker-ops) as devops
   
   | Property     | Data                                                         |
   | ------------ | ------------------------------------------------------------ |
