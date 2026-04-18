@@ -1,5 +1,5 @@
 name: Latest blog post workflow
-on:
+于:
   schedule: # Run workflow automatically
     - cron: '30 16 * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1.9.6
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.tteam.icu/rss.xml"
           template: $newline - [$date $title]($url)
