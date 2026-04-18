@@ -80,6 +80,8 @@ Vue.js                     44 hrs 17 mins        >------------------------   02.
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+ - [2026-04-05 mac终端改造](https://www.tteam.icu/blog/dev/mac终端改造)
+ - [2026-03-26 【vps测评】oracle](https://www.tteam.icu/blog/vps/【vps测评】oracle)
  - [2026-03-22 我把我三个网站合在一起了](https://www.tteam.icu/blog/dev/我把我三个网站合在一起了)
  - [2026-03-01 【vps测评】netcup](https://www.tteam.icu/blog/vps/【vps测评】netcup)
  - [2026-03-01 我抽空写了3个rspress插件](https://www.tteam.icu/blog/dev/我抽空写了3个rspress插件)
@@ -87,6 +89,4 @@ Vue.js                     44 hrs 17 mins        >------------------------   02.
  - [2026-01-11 年报 2025](https://www.tteam.icu/blog/record/yearly/Y2025)
  - [2025-11-29 自己写了个个人使用的图床](https://www.tteam.icu/blog/dev/自己写了个个人使用的图床)
  - [2025-09-24 【vps测评】hetzner](https://www.tteam.icu/blog/vps/【vps测评】hetnzer)
- - [2025-08-14 rustfs是否可以替代minio](https://www.tteam.icu/blog/ops/rustfs是否可以替代minio)
- - [2025-08-06 轻量化收集日志](https://www.tteam.icu/blog/ops/轻量化收集日志)
- - [2025-07-31 笔记从vuepress迁移到rspress](https://www.tteam.icu/blog/dev/笔记从vuepress迁移到rspress)<!-- BLOG-POST-LIST:END -->
+ - [2025-08-14 rustfs是否可以替代minio](https://www.tteam.icu/blog/ops/rustfs是否可以替代minio)<!-- BLOG-POST-LIST:END -->
