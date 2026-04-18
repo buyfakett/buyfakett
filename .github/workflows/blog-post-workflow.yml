@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1.96
+        uses: gautamkrishnar/blog-post-workflow@v1.9.6
         with:
           feed_list: "https://blog.tteam.icu/rss.xml"
           template: $newline - [$date $title]($url)
