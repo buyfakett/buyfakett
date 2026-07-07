@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 05 July 2026
+From: 15 September 2023 - To: 06 July 2026
 
 Total Time: 1,699 hrs 35 mins
 
