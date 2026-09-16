@@ -29,9 +29,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 14 September 2026
+From: 15 September 2023 - To: 15 September 2026
 
-Total Time: 1,754 hrs 23 mins
+Total Time: 1,754 hrs 36 mins
 
 Other                      310 hrs 43 mins       >>>>---------------------   17.71 %
 Bash                       267 hrs 24 mins       >>>>---------------------   15.24 %
