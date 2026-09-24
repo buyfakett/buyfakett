@@ -16,7 +16,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.tteam.icu/rss.xml"
+          feed_list: "https://www.tteam.icu/blog/rss.xml"
           template: $newline - [$date $title]($url)
           date_format: "yyyy-mm-dd"	
           max_post_count: 10
