@@ -80,6 +80,7 @@ Vue.js                     44 hrs 17 mins        >------------------------   02.
 <h1 align="center">My Recent Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+ - [2026-10-29 线上虚机断电后XFS文件系统损坏修复记录](https://www.tteam.icu/blog/ops/线上虚机断电后XFS文件系统损坏修复记录)
  - [2026-09-20 从阿里云ECS自建MySQL迁移到阿里云RDS](https://www.tteam.icu/blog/ops/从阿里云ECS自建MySQL迁移到阿里云RDS)
  - [2026-07-25 2026年度优化主页](https://www.tteam.icu/blog/dev/2026年度优化)
  - [2026-04-05 mac终端改造](https://www.tteam.icu/blog/dev/mac终端改造)
@@ -88,5 +89,4 @@ Vue.js                     44 hrs 17 mins        >------------------------   02.
  - [2026-03-01 【vps测评】netcup](https://www.tteam.icu/blog/vps/【vps测评】netcup)
  - [2026-03-01 我抽空写了3个rspress插件](https://www.tteam.icu/blog/dev/我抽空写了3个rspress插件)
  - [2026-01-19 年度计划 2026](https://www.tteam.icu/blog/plans/year/Y2026)
- - [2026-01-11 年报 2025](https://www.tteam.icu/blog/record/yearly/Y2025)
- - [2025-11-29 自己写了个个人使用的图床](https://www.tteam.icu/blog/dev/自己写了个个人使用的图床)<!-- BLOG-POST-LIST:END -->
+ - [2026-01-11 年报 2025](https://www.tteam.icu/blog/record/yearly/Y2025)<!-- BLOG-POST-LIST:END -->
