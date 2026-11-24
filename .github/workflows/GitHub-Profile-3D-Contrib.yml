@@ -3,8 +3,11 @@ name: GitHub-Profile-3D-Contrib
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 16 * * *" 
+    - cron: "0 16 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -21,5 +24,7 @@ jobs:
           git config user.name buyfakett
           git config user.email buyfakett@vip.qq.com
           git add -A .
-          git commit -m "3D-Contrib🚀"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update 3D contribution graph"
+            git push
+          fi

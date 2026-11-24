@@ -1,24 +1,32 @@
-# This is a basic workflow to help you get started with Actions
 name: Waka Readme
 
 on:
-  push:
-    branches:
-      - master
   workflow_dispatch:
   schedule:
     - cron: '15 18 * * *'
 
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-wakatime
+  cancel-in-progress: true
+
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update WakaTime stats
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: athul/waka-readme@master
+      - name: Update README
+        uses: athul/waka-readme@8991b596d85696d98ea96f775390a1bbe266c8c9
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
-          BLOCKS: ->
+          BLOCKS: '->'
           TIME_RANGE: all_time
           LANG_COUNT: 10
+          SECTION_NAME: waka
+          TARGET_BRANCH: main
+          COMMIT_MESSAGE: 'chore: update WakaTime stats'
